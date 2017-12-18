@@ -14,28 +14,28 @@ to build them:
 
 In chronological order:
 
-1. [Bouncing Balls](tree/master/balls): Eight balls bouncing in a window,
+1. [Bouncing Balls](https://github.com/nickoala/kproc/tree/master/balls): Eight balls bouncing in a window,
    modeling gravity and bouncing.
 
-![Bouncing Balls](tree/master/balls/balls.jpg)
+![Bouncing Balls](https://github.com/nickoala/kproc/blob/master/balls/balls.jpg?raw=true)
 
-2. [Game of Life](tree/master/life)
+2. [Game of Life](https://github.com/nickoala/kproc/tree/master/life)
 
-![Game of Life](tree/master/life/life.jpg)
+![Game of Life](https://github.com/nickoala/kproc/blob/master/life/life.jpg?raw=true)
 
-3. [Fractals](tree/master/fractal)
+3. [Fractals](https://github.com/nickoala/kproc/tree/master/fractal)
 
-![Fractals](tree/master/fractal/fractal.jpg)
+![Fractals](https://github.com/nickoala/kproc/blob/master/fractal/fractal.jpg?raw=true)
 
-4. [Loci](tree/master/loci): Follow a fixed point on a rolling circle. Some
+4. [Loci](https://github.com/nickoala/kproc/tree/master/loci): Follow a fixed point on a rolling circle. Some
    beautiful curves are traced out.
 
-![Loci](tree/master/loci/loci.jpg)
+![Loci](https://github.com/nickoala/kproc/blob/master/loci/loci.jpg?raw=true)
 
-5. [Cannon Game](tree/master/cannon): Fire cannon balls at a target. Use the
+5. [Cannon Game](https://github.com/nickoala/kproc/tree/master/cannon): Fire cannon balls at a target. Use the
    arrow keys to adjust the shooting angle and firepower, use spacebar to
    launch.
 
-![Cannon Game](tree/master/cannon/cannon.jpg)
+![Cannon Game](https://github.com/nickoala/kproc/blob/master/cannon/cannon.jpg?raw=true)
 
 Thanks to [The Nature of Code](http://natureofcode.com/book/) for inspirations.
