@@ -14,28 +14,29 @@ to build them:
 
 In chronological order:
 
-1. [Bouncing Balls](https://github.com/nickoala/kproc/tree/master/balls): Eight balls bouncing in a window,
-   modeling gravity and bouncing.
+## [Bouncing Balls](https://github.com/nickoala/kproc/tree/master/balls)
 
-![Bouncing Balls](https://github.com/nickoala/kproc/blob/master/balls/balls.jpg?raw=true)
+Eight balls bouncing in a window, modeling gravity and bouncing. ![Bouncing Balls](https://github.com/nickoala/kproc/blob/master/balls/balls.jpg?raw=true)
 
-2. [Game of Life](https://github.com/nickoala/kproc/tree/master/life)
+## [Game of Life](https://github.com/nickoala/kproc/tree/master/life)
 
-![Game of Life](https://github.com/nickoala/kproc/blob/master/life/life.jpg?raw=true)
+  ![Game of Life](https://github.com/nickoala/kproc/blob/master/life/life.jpg?raw=true)
 
-3. [Fractals](https://github.com/nickoala/kproc/tree/master/fractal)
+## [Fractals](https://github.com/nickoala/kproc/tree/master/fractal)
 
 ![Fractals](https://github.com/nickoala/kproc/blob/master/fractal/fractal.jpg?raw=true)
 
-4. [Loci](https://github.com/nickoala/kproc/tree/master/loci): Follow a fixed point on a rolling circle. Some
-   beautiful curves are traced out.
+## [Loci](https://github.com/nickoala/kproc/tree/master/loci)
+
+Follow a fixed point on a rolling circle. Some beautiful curves are traced out.
 
 ![Loci](https://github.com/nickoala/kproc/blob/master/loci/loci.jpg?raw=true)
 
-5. [Cannon Game](https://github.com/nickoala/kproc/tree/master/cannon): Fire cannon balls at a target. Use the
-   arrow keys to adjust the shooting angle and firepower, use spacebar to
-   launch.
+## [Cannon Game](https://github.com/nickoala/kproc/tree/master/cannon)
+
+Fire cannon balls at a target. Use the arrow keys to adjust the shooting angle and 
+firepower, use spacebar to launch.
 
 ![Cannon Game](https://github.com/nickoala/kproc/blob/master/cannon/cannon.jpg?raw=true)
 
-Thanks to [The Nature of Code](http://natureofcode.com/book/) for inspirations.
+## Thanks to [The Nature of Code](http://natureofcode.com/book/) for inspirations.
