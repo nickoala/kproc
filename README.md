@@ -16,11 +16,13 @@ In chronological order:
 
 ## [Bouncing Balls](https://github.com/nickoala/kproc/tree/master/balls)
 
-Eight balls bouncing in a window, modeling gravity and bouncing. ![Bouncing Balls](https://github.com/nickoala/kproc/blob/master/balls/balls.jpg?raw=true)
+Eight balls bouncing in a window, modeling gravity and bouncing.
+
+![Bouncing Balls](https://github.com/nickoala/kproc/blob/master/balls/balls.jpg?raw=true)
 
 ## [Game of Life](https://github.com/nickoala/kproc/tree/master/life)
 
-  ![Game of Life](https://github.com/nickoala/kproc/blob/master/life/life.jpg?raw=true)
+![Game of Life](https://github.com/nickoala/kproc/blob/master/life/life.jpg?raw=true)
 
 ## [Fractals](https://github.com/nickoala/kproc/tree/master/fractal)
 
@@ -34,8 +36,7 @@ Follow a fixed point on a rolling circle. Some beautiful curves are traced out.
 
 ## [Cannon Game](https://github.com/nickoala/kproc/tree/master/cannon)
 
-Fire cannon balls at a target. Use the arrow keys to adjust the shooting angle and 
-firepower, use spacebar to launch.
+Use the arrow keys to adjust the launching angle and firepower, use spacebar to launch.
 
 ![Cannon Game](https://github.com/nickoala/kproc/blob/master/cannon/cannon.jpg?raw=true)
 
