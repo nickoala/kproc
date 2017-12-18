@@ -1,0 +1,25 @@
+plugins {
+    id "org.jetbrains.kotlin.jvm" version "1.2.0"
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'org.jetbrains.kotlin:kotlin-stdlib:1.2.0'
+    compile 'org.processing:core:3.3.6'
+}
+
+sourceSets {
+    main {
+        kotlin {
+            srcDirs = ['src']
+        }
+    }
+}
+
+task run(type: JavaExec, dependsOn: [compileJava]) {
+    classpath sourceSets.main.runtimeClasspath
+    main = 'kproc.cannon.CannonKt'
+}
