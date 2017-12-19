@@ -16,7 +16,7 @@ In chronological order:
 
 ## [Bouncing Balls](https://github.com/nickoala/kproc/tree/master/balls)
 
-Eight balls bouncing in a window, modeling gravity and bouncing.
+Model gravity and bouncing.
 
 ![Bouncing Balls](https://github.com/nickoala/kproc/blob/master/balls/balls.jpg?raw=true)
 
@@ -36,7 +36,8 @@ Follow a fixed point on a rolling circle. Some beautiful curves are traced out.
 
 ## [Cannon Game](https://github.com/nickoala/kproc/tree/master/cannon)
 
-Use the arrow keys to adjust the launching angle and firepower, use spacebar to launch.
+Use arrow keys to adjust the launching angle and speed, use spacebar to launch.
+Model gravity and wind resistance.
 
 ![Cannon Game](https://github.com/nickoala/kproc/blob/master/cannon/cannon.jpg?raw=true)
 
