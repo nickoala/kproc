@@ -41,4 +41,10 @@ Model gravity and wind resistance.
 
 ![Cannon Game](https://github.com/nickoala/kproc/blob/master/cannon/cannon.jpg?raw=true)
 
+## [Boulder Slide](https://github.com/nickoala/kproc/tree/master/boulder)
+
+Experiment with [JBox2D](http://www.jbox2d.org). Can the house stop the boulders?
+
+![Boulder Slide](https://github.com/nickoala/kproc/blob/master/boulder/boulder.jpg?raw=true)
+
 ## Thanks to [The Nature of Code](http://natureofcode.com/book/) for inspirations.
